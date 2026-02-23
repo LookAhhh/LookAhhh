@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Luca Capriati
+# 👋 Hi there! I'm Luca
 
 **Intermediate Full-Stack Developer | Next.js Specialist | Open to Work 🚀**
 
