@@ -6,7 +6,7 @@ I am a results-driven developer with over 4 years of experience building scalabl
 
 I combine a deep technical stack with a product-focused mindset, ensuring that every line of code adds tangible value to the user experience.
 
-[**Explore my Portfolio**](https://website-links-three.vercel.app) | [**LinkedIn**](https://www.linkedin.com/in/luca-capriati/)
+[**Explore my Portfolio**](https://luca-capriati.dev) | [**LinkedIn**](https://www.linkedin.com/in/luca-capriati/)
 
 ---
 
